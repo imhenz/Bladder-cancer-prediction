@@ -8,3 +8,5 @@ Limitation: NGS experimental design might not be the same for all type of bladde
 Findings: This research revealed new insights that the application of ML classification techniques can be used to predict cancer stages based on RNA-Seq TPM count data and corresponding clinical pathological stages.
 
 Practical Implication: The research presents a better approach that can be used in classifying the stages of bladder cancer (BCa) and other cancer types, using TPM count data as input and AJCC pathological stages as target labels for the benefit of bladder cancer treatment.
+
+file:///C:/Users/brost/Downloads/Stttage%20II%20&%20Stage%20IV.html
